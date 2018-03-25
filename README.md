@@ -8,6 +8,8 @@ Project for our TESDA-ACLC Web development program
 
 • PHP
 
+• SQL
+
 # Create a website with the following requirements:
 1. Login Webpage
 2. Rigistration Webpage
@@ -18,16 +20,16 @@ Project for our TESDA-ACLC Web development program
 7. Webpage that allows a user to cancel an ordered product.
 8. Allows a user to logout
 
-# Checking Requirements
+# Checking Requirements:
 • The website should be able to perform all the DML (Data Manipulation Language) Statement mainly Select, Insert, Update and Delete
 
 • The website must have a design
 
-• Presentation of the website is on March 25, 2018, Sunday, from 9:00 AM to 1:00PM
-
 # Screenshots:
 
 • Login page
+![Alt text](/relative/images/internet_shopping_login.jpg?raw=true "login page")
+
 
 
 
