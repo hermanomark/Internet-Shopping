@@ -27,8 +27,31 @@ Project for our TESDA-ACLC Web development program
 
 # Screenshots:
 
-• Login page
-![login](/images/internet_shopping_login.png?raw=true "login page")
+• Sign in page
+![login](/images/internet_shopping_login.png?raw=true "sign in page")
+
+• Sign up page
+![register](/images/internet_shopping_register.png?raw=true "sign up page")
+
+• Admin page
+![admin](/images/internet_shopping_main_admin.png?raw=true "admin page")
+
+• Manage user's account - admin
+![admin](/images/internet_shopping_manage_users_account.png?raw=true "admin page")
+
+• Manage products - admin
+![admin](/images/internet_shopping_manage_product.png?raw=true "admin page")
+
+• Adding products - admin
+![admin](/images/internet_shopping_add_product.png?raw=true "admin page")
+
+• User page
+![user](/images/internet_shopping_order_product.png?raw=true "user page")
+
+• Order summary - user
+![user](/images/internet_shopping_order_summary.png?raw=true "user page")
+
+
 
 
 
