@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title> Internet Shopping </title>
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link href="css/main_table.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>Internet Shopping</h1>
+  <h1>Internet Shopping</h1>
   <div class="container_main_view_user">
     <h2>Manage User's Accounts</h2>
       <div align="center">
