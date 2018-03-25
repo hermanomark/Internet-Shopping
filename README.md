@@ -3,7 +3,9 @@ Project for our TESDA-ACLC Web development program
 
 # Technologies:
 • HTML
+
 • CSS
+
 • PHP
 
 #Create a website with the following requirements:
