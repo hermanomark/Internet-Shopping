@@ -8,7 +8,7 @@ Project for our TESDA-ACLC Web development program
 
 • PHP
 
-#Create a website with the following requirements:
+# Create a website with the following requirements:
 1. Login Webpage
 2. Rigistration Webpage
 3. Webpage that display the user information
