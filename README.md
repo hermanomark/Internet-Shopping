@@ -28,7 +28,7 @@ Project for our TESDA-ACLC Web development program
 # Screenshots:
 
 • Login page
-![Alt text](/relative/images/internet_shopping_login.jpg?raw=true "login page")
+![Alt text](/relative/images/internet_shopping_login.png?raw=true "login page")
 
 
 
