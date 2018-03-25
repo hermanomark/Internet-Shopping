@@ -18,3 +18,16 @@ Project for our TESDA-ACLC Web development program
 7. Webpage that allows a user to cancel an ordered product.
 8. Allows a user to logout
 
+# Checking Requirements
+• The website should be able to perform all the DML (Data Manipulation Language) Statement mainly Select, Insert, Update and Delete
+
+• The website must have a design
+
+• Presentation of the website is on March 25, 2018, Sunday, from 9:00 AM to 1:00PM
+
+# Screenshots:
+
+• Login page
+
+
+
